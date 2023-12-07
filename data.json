@@ -1,0 +1,25 @@
+{
+  "path": "list.csv",
+  "components": {
+    "title": {
+      "type": "text",
+      "x": 300,
+      "y": 300,
+      "max-width": 400,
+      "max-height": 400,
+      "font-size": 21,
+      "font-family": "arial.ttf",
+      "font-color": "#000000"
+    },
+    "qr-string": {
+      "type": "text",
+      "x": 300,
+      "y": 500,
+      "max-width": 400,
+      "max-height": 400,
+      "font-size": 18,
+      "font-family": "arial.ttf",
+      "font-color": "#000000"
+    }
+  }
+}
